@@ -14,14 +14,9 @@ CityCareApp adalah aplikasi pelaporan kerusakan fasilitas umum yang memungkinkan
 
 ## Instalasi
 
-- Lakukan unduh starter project c:
-  ```bash
-  
-  ```
-
 - Masuk ke direktori proyek:
   ```bash
-  cd citycareapp-starter-project
+  cd citycareapp
   ```
 
 - Instal dependensi:
